@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ClassyP/Hangman-Node/issues"
   },
-  "homepage": "https://github.com/ClassyP/Hangman-Node#readme"
+  "homepage": "https://github.com/ClassyP/Hangman-Node#readme",
+  "dependencies": {
+    "inquire": "^0.4.8"
+  }
 }
